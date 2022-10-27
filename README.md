@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/philankosi/Java%20sample%20code/_apis/build/status/phila-nkosi.pipelines-java?branchName=main)](https://dev.azure.com/philankosi/Java%20sample%20code/_build/latest?definitionId=3&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
